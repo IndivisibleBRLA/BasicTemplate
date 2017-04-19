@@ -1,11 +1,10 @@
 ---
-title: Senator Dianne Feinstein
+title: Senator Bill Cassidy
 date: 2017-02-04 01:58:00 Z
 position: 0
 phone-numbers:
-  SF Office: "(213) 894-5000"
-  DC Office: "(202) 224-3553"
-  Sacramento Office: "(916) 448-2787"
+  BR Office: "(225) 929-7711"
+  DC Office: "(202) 224-5824"
+website: https://www.cassidy.senate.gov/
 ---
 
-Rad
