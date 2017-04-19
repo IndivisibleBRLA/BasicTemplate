@@ -1,6 +1,6 @@
 ---
 title: 'General Meeting: April 9, 6:30pm'
-date: 2017-02-03 01:10:00 -06:00
+date: 2017-04-18 01:10:00 -05:00
 categories:
 - event
 tags:
