@@ -1,5 +1,5 @@
 ---
-title: Kennedy Town Hall
+title: '"No Show Neely" Town Hall'
 date: 2017-04-18 21:53:00 -05:00
 categories:
 - event
